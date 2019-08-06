@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/artamonoviv/SMS-Send-RedSMS2.svg?branch=master)](https://travis-ci.com/artamonoviv/SMS-Send-RedSMS2)
 # NAME
 
 SMS::Send::RedSMS2 - SMS::Send driver to send messages via RedSMS.ru service (https://redsms.ru) API 2.0
